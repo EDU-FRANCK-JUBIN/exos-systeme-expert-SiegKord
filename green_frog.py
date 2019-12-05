@@ -2,7 +2,7 @@
 """
 Created on Fri Nov 29 11:27:05 2019
 
-@author: Johann
+@author: Nicolas
 """
 
 from pyDatalog import pyDatalog
